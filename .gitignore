@@ -1,0 +1,17 @@
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.env
+.env.*
+tmp/
+temp/
+.cache/
+*.pem
+*.key
+*.crt
+*.csr
+*.log
+logs/
+*.out
+*.tar
