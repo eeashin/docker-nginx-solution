@@ -29,7 +29,7 @@
 ---
 
 * The container has no `HEALTHCHECK`. Adding healthcheck helps detect unhealthy instances.
---
+---
 
 * The container behavior is mostly hardcoded. Using environment-based configuration and environment variables would improve flexibility across environments.
 
