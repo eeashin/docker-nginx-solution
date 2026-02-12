@@ -33,4 +33,3 @@ To spawn a shell in a running container:
 
 ** Custom 404 page should look like this:
 ![404](./404.png)
-
